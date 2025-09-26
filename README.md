@@ -1,4 +1,4 @@
-# Cybersecurity Internship Project (Simple Version)
+# Cybersecurity BabiEat Project
 
 This repository contains documentation and code demos for core cybersecurity concepts.
 
@@ -14,4 +14,6 @@ This repository contains documentation and code demos for core cybersecurity con
 1. Run any Python script inside its folder:
    ```bash
    python symmetric_demo.py
+   python asymmetric_demo.py
+   python digital_signature_demo.py
    ```
